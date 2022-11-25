@@ -7,6 +7,7 @@
       "name": "https://mock-api.appsmith.com",
       "pluginId": "restapi-plugin",
       "datasourceConfiguration": {
+        "sshProxyEnabled": false,
         "url": "https://mock-api.appsmith.com"
       },
       "invalids": [],
